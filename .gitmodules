@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/monika-kh/backend.git
+[submodule "emp-management-react-frontend"]
+	path = emp-management-react-frontend
+	url = https://github.com/monika-kh/emp-management-react-frontend.git
